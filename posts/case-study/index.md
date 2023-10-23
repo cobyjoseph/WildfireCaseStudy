@@ -9,7 +9,7 @@ This case study was written in response to [this](https://forum.effectivealtruis
 
 This case study investigates safety standards applied to investor-owned electrical companies in California (hereafter referred to as ‘utilities’) to reduce the risk of utility equipment igniting wildfires. California investor-owned utilities are regulated monopolies responsible for purchasing and distributing electricity across the state. Three utilities cover most of the state, with Pacific Gas and Electric (PG&E) being the largest. The industry has many possible parallels and lessons for AI regulation.
 
-# The need for safety standards (summary)
+## The need for safety standards
 
 - California wildfires cause significant death and destruction. (more)
 - The risk of wildfires has significantly increased in recent decades, almost certainly due to climate-change induced droughts.
@@ -125,14 +125,14 @@ Key points:
 
 - Voluntary actions to improve safety above and beyond minimum requirements by some utilities (primarily SDG&E) has increased pressure and expectations on other utilities.
 
-<details style="margin-bottom: 10px; margin-top: 10px; margin-left: 20px;">
+<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 15px">
+    <span style="margin-left: 5px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div style="margin-left: 20px; margin-top: 10px">
+  <div style="margin-left: 20px; margin-top: 12px">
 
 - Second level, first BULLET
 
@@ -142,14 +142,14 @@ Key points:
 
 <!-- ONE LEVEL OF NESTING -->
 
-<details style="margin-bottom: 10px; margin-top: 10px; margin-left: 20px;">
+<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 15px">
+    <span style="margin-left: 5px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div style="margin-left: 20px; margin-top: 10px">
+  <div style="margin-left: 20px; margin-top: 12px">
 
 - Second level, first BULLET
 
@@ -159,15 +159,15 @@ Key points:
 
 <!-- TWO LEVELS OF NESTING -->
 
-<details style="margin-bottom: 10px; margin-top: 10px; margin-left: 20px;">
+<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 15px">
+    <span style="margin-left: 5px">
       TOP BULLET HERE
     </span>
   </summary>
   
  
-  <div style="margin-left: 20px; margin-top: 10px">
+  <div style="margin-left: 20px; margin-top: 12px">
 
 
 - Second level, first BULLET
@@ -175,7 +175,7 @@ Key points:
 
   </div>
 
-  <details style="margin-bottom: 10px; margin-top: 10px; margin-left: 25px;">
+  <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 25px;">
     <summary>
       <span style="margin-left: 10px">
         Second level, COLLAPSABLE
@@ -183,7 +183,7 @@ Key points:
 
     </summary>
 
-  <div style="margin-left: 20px; margin-top: 10px">
+  <div style="margin-left: 20px; margin-top: 12px">
 
 - Third level, first BULLET
 

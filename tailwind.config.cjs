@@ -5,15 +5,15 @@ module.exports = {
   theme: {
     extend: {},
     fontSize: {
-      xs: ['0.8125rem', { lineHeight: '1.3rem' }],
-      sm: ['0.875rem', { lineHeight: '1.3rem' }],
-      base: ['1rem', { lineHeight: '1.55rem' }],
-      lg: ['1.125rem', { lineHeight: '1.55rem' }],
-      xl: ['1.25rem', { lineHeight: '1.75rem' }],
-      '2xl': ['1.5rem', { lineHeight: '1.75rem' }],
-      '3xl': ['1.875rem', { lineHeight: '2rem' }],
-      '4xl': ['2rem', { lineHeight: '2.2rem' }],
-      '5xl': ['3rem', { lineHeight: '3rem' }],
+      xs: ['0.8125rem', { lineHeight: '1.2rem' }],
+      sm: ['0.875rem', { lineHeight: '1.2rem' }],
+      base: ['1rem', { lineHeight: '1.35rem' }],
+      lg: ['1.125rem', { lineHeight: '1.35rem' }],
+      xl: ['1.25rem', { lineHeight: '1.65rem' }],
+      '2xl': ['1.5rem', { lineHeight: '1.65rem' }],
+      '3xl': ['1.875rem', { lineHeight: '1.85rem' }],
+      '4xl': ['2rem', { lineHeight: '2.1rem' }],
+      '5xl': ['3rem', { lineHeight: '2.7rem' }],
       '6xl': ['3.75rem', { lineHeight: '1' }],
       '7xl': ['4.5rem', { lineHeight: '1' }],
       '8xl': ['6rem', { lineHeight: '1' }],
@@ -87,14 +87,14 @@ module.exports = {
 
           // Base
           color: 'var(--tw-prose-body)',
-          lineHeight: theme('lineHeight.7'),
+          lineHeight: theme('lineHeight.65'),
           '> *': {
             marginTop: theme('spacing.6'),
-            marginBottom: theme('spacing.6')
+            marginBottom: theme('spacing.2')
           },
           p: {
-            marginTop: theme('spacing.4'),
-            marginBottom: theme('spacing.1')
+            marginTop: theme('spacing.5'),
+            marginBottom: theme('spacing.4')
           },
 
           // Headings
@@ -194,12 +194,12 @@ module.exports = {
           },
           'ul, ol': {
             paddingLeft: theme('spacing.7'),
-            marginTop: theme('spacing.2'),
+            marginTop: theme('spacing.3'),
             marginBottom: theme('spacing.2')
           },
           li: {
-            marginTop: theme('spacing.1'),
-            marginBottom: theme('spacing.1'),
+            marginTop: theme('spacing.3'),
+            marginBottom: theme('spacing.2'),
             paddingLeft: theme('spacing[1]')
           },
           'li::marker': {
