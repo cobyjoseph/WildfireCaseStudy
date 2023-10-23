@@ -35,7 +35,7 @@ The risk of wildfires has significantly increased in recent decades, almost cert
   </span>
   </summary>
    
-  <div  style="margin-left: 20px; margin-top: 12px">
+  <div class="innerBullet">
 
 * Out of California’s 20 largest wildfires up to 2022, seven occurred in 2020 and 2021 alone.
 * Climate change appears to be significantly exacerbating wildfire risk by increasing drought frequency and severity.
@@ -163,14 +163,14 @@ Key points:
 
 - Voluntary actions to improve safety above and beyond minimum requirements by some utilities (primarily SDG&E) has increased pressure and expectations on other utilities.
 
-<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
+<details class="outerBullet">
   <summary> 
     <span style="margin-left: 8px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div  style="margin-left: 20px; margin-top: 12px">
+  <div class="innerBullet">
 
 - Second level, first BULLET
 
@@ -180,14 +180,14 @@ Key points:
 
 <!-- ONE LEVEL OF NESTING -->
 
-<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
+<details class="outerBullet">
   <summary> 
     <span style="margin-left: 8px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div  style="margin-left: 20px; margin-top: 12px">
+  <div class="innerBullet">
 
 - Second level, first BULLET
 
@@ -197,7 +197,7 @@ Key points:
 
 <!-- TWO LEVELS OF NESTING -->
 
-<details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
+<details class="outerBullet">
   <summary> 
     <span style="margin-left: 8px">
       TOP BULLET HERE
@@ -205,7 +205,7 @@ Key points:
   </summary>
   
  
-  <div  style="margin-left: 20px; margin-top: 12px">
+  <div class="innerBullet">
 
 
 - Second level, first BULLET
@@ -215,7 +215,7 @@ Key points:
 
   <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 25px;">
     <summary>
-      <span style="margin-left: 8px">
+      <span style="margin-left: 4px">
         Second level, COLLAPSABLE
       </span>
 

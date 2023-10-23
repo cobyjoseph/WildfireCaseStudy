@@ -6,6 +6,19 @@
 @layer base {
   body {
     @apply text-zinc-600 dark:text-zinc-400;
+
+    .outerBullet {
+      margin-bottom: 0px; 
+      margin-top: 12px; 
+      margin-left: 10px;
+    } 
+
+    .innerBullet {
+      margin-left: 20px;
+      margin-top: 12px;
+    }
+    
+
   }
 
   h1,
