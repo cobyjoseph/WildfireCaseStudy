@@ -4,7 +4,7 @@ date: 2022-12-14
 ---
 
 Thanks for checking out my blog template. It's based on the blog I built for my own [website](https://mattjennings.io) and I hope this is a good starting point for you to start yours.
-
+DOES THIS UPDATE?
 Let's go over a few quick things:
 
 - This template was built with `@sveltejs/kit@1.0.0`
