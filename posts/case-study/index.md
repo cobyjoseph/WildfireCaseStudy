@@ -2,8 +2,11 @@
 title: ' '
 date: 2023-10-23
 ---
+<div style="margin-top: -40px">
 
-## Background:
+## Background
+
+</div>
 
 This case study was written in response to [this](https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards) call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading AI labs. It represents ~50 hours of independent research. I am grateful to Michael Wara, Tom Long, Marc Joseph, and one expert with knowledge of the Office of Energy Infrastructure Safety (who chose to remain anonymous) for allowing me to interview them for this case study.
 
@@ -11,15 +14,14 @@ This case study investigates safety standards applied to investor-owned electric
 
 ## The need for safety standards
 
-
-<details style="margin-bottom: 0px; margin-top: 12px; ">
+<details class="outerBullet">
   <summary > 
     <span style="margin-left: 8px">
   California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.   
   </span>
   </summary>
    
-  <div  style=" margin-left: 20px; margin-top: 12px">
+  <div class="innerBullet">
 
   * [Since 2008](https://calmatters.org/california-wildfire-map-tracker/), California wildfires have killed 225 people and damaged or destroyed more than 50,000 structures. Since 2015, they have caused around $25 billion in “property and contents” loss (which does not include lost economic activity or fire suppression costs).
 
@@ -28,7 +30,7 @@ This case study investigates safety standards applied to investor-owned electric
 </details>
 
 
-<details style="margin-bottom: 0px; margin-top: 12px; ">
+<details class="outerBullet">
   <summary > 
     <span style="margin-left: 8px">
 The risk of wildfires has significantly increased in recent decades, almost certainly due to climate-change induced droughts.    
@@ -37,24 +39,53 @@ The risk of wildfires has significantly increased in recent decades, almost cert
    
   <div class="innerBullet">
 
-* Out of California’s 20 largest wildfires up to 2022, seven occurred in 2020 and 2021 alone.
+* Out of California’s [20 largest wildfires](https://calmatters.org/california-wildfire-map-tracker/) up to 2022, seven occurred in 2020 and 2021 alone.
 * Climate change appears to be significantly exacerbating wildfire risk by increasing drought frequency and severity.
 
 
   </div>
 </details>
 
- 
+<!-- -------------------------------------- -->
+<details class="outerBullet">
+  <summary > 
+    <span style="margin-left: 8px">
+Equipment from California’s utilities is a significant source of wildfires that have killed hundreds of people and caused billions of dollars in damage.    
+  </span>
+  </summary>
+   
+  <div class="innerBullet">
+
+* Utility equipment caused fires that burned a[ similar number of acres](https://calmatters.org/california-wildfire-map-tracker/) as fires caused by humans or lightning in 2017, 2019, and 2021.
+* Pacific Gas and Electric (PG&E), the state’s largest utility,[ pleaded guilty](https://www.npr.org/2020/06/16/879008760/pg-e-pleads-guilty-on-2018-california-camp-fire-our-equipment-started-that-fire#:~:text=Hourly%20News-,PG%26E%20Pleads%20Guilty%20On%202018%20California%20Camp%20Fire%3A%20'Our%20Equipment,has%20been%20charged%20with%20homicide.) to 84 counts of involuntary manslaughter following the 2018 Camp Fire, the deadliest wildfire in the state’s history, which was caused by old PG&E equipment. PG&E equipment was[ also responsible](https://www.cnbc.com/2022/01/05/california-finds-pge-equipment-responsible-for-massive-dixie-fire-.html) for starting the Dixie Fire, the state’s second largest fire by acreage, which destroyed more than 1,300 homes in 2021. PG&E filed for[ bankruptcy in 2019](https://www.nytimes.com/2019/01/29/business/energy-environment/pge-file-bankruptcy.html) after facing liability claims for dozens of fires.
+
+
+  </div>
+</details>
+<!-- -------------------------------------- -->
+
+ <!-- -------------------------------------- -->
+<details class="outerBullet">
+  <summary > 
+    <span style="margin-left: 8px">
+There is no simple and affordable solution to eliminate wildfire risk from utility equipment.  
+  </span>
+  </summary>
+   
+  <div class="innerBullet">
+
+* [Undergrounding](https://www.pge.com/pge_global/common/pdfs/customer-service/other-services/electric-undergrounding-program/PGE-Undergrounding-Fact-Sheet.pdf) sections of overhead power lines eliminates nearly all wildfire risk from those power lines. However, undergrounding all existing overhead distribution and transmission lines is[ estimated](https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/infrastructure/electric-reliability/undergrounding-program-description#:~:text=According%20to%20PG%26E%2C%20SCE%20and,to%20%246.072%20million%20per%20mile.) to cost more than $750 billion.
+* ADD PONIT ABOUT PG7E PROPOSING
+
+
+  </div>
+</details>
+<!-- -------------------------------------- -->
 
 
 
 
-
-
-- Equipment from California’s utilities is a significant source of wildfires that have killed hundreds of people and caused billions of dollars in damage.
-- There is no simple and affordable solution to eliminate wildfire risk from utility equipment.
-
-# Current standards (summary)
+## Current standards (summary)
 
 - The California Public Utilities Commission is the primary regulator of utilities. In 2022, the Office of Energy Infrastructure Safety (‘Energy Safety’) was created to oversee utility processes related to reducing wildfire risk.
 - Energy Safety issues “[safety certifications](https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/wildfire-mitigation-and-safety/safety-certifications/safety-certification-faqs/)'' to qualifying utilities. Failure to receive a safety certification would significantly harm a utility’s financial standing.
@@ -66,7 +97,7 @@ The risk of wildfires has significantly increased in recent decades, almost cert
 
 ## Key findings (summary)
 
-_This section summarizes the most interesting and relevant points. Each header links to a corresponding section in the appendix containing a more detailed description. _
+This section summarizes the most important findings with an emphasis on possible lessons for AI safety standard development. Each bullet point can be expanded to provide additional background detail.
 
 ### <span style="text-decoration:underline;">Proactivity vs. reactivity </span>
 
