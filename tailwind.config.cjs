@@ -93,7 +93,7 @@ module.exports = {
             marginBottom: theme('spacing.6')
           },
           p: {
-            marginTop: theme('spacing.2'),
+            marginTop: theme('spacing.4'),
             marginBottom: theme('spacing.1')
           },
 
