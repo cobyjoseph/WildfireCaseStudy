@@ -1,17 +1,37 @@
 ---
-title: Getting Started
-date: 2022-12-14
+title: ' '
+date: 2023-10-23
 ---
 
 Thanks for checking out my blog template. It's based on the blog I built for my own [website](https://mattjennings.io) and I hope this is a good starting point for you to start yours.
 DOES THIS UPDATE?
 Let's go over a few quick things:
 
-- This template was built with `@sveltejs/kit@1.0.0`
+<details style="margin-bottom: 10px; margin-top: 10px; margin-left: 10px;">
+  <summary> <span style="margin-left: 5px">
+This template was built with `@sveltejs/kit@1.0.0`
+  </span>
+  </summary>
+   <div style="margin-left: 20px">
 
-- The theme of this blog is heavily borrowed from Tailwind's ["Spotlight" blog template](https://spotlight.tailwindui.com/). This is _not_ a port of that template, but the styling is pretty much the same.
+- second level hidden
+- Bullet two
 
-- You should edit the `src/lib/info.js` file to contain your information. This will properly update the parts of the website that display your name, social links, and SEO (meta tags) for your posts.
+</div>
+</details>
+<details style="margin-bottom: 10px; margin-top: 10px">
+
+  <summary>
+This template was built with `@sveltejs/kit@1.0.0`
+  </summary>
+   <div style="margin-left: 20px">
+
+- second level hidden
+- Bullet two
+
+</div>
+
+</details>
 
 Now that that's out of the way, let's learn about how to make posts.
 

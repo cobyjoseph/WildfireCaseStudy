@@ -5,8 +5,8 @@
 // URL of your website
 export const website = 'https://sveltekit-blog-template.vercel.app'
 
-export const firstName = 'Jordan'
-export const lastName = 'Doe'
+export const firstName = 'Case study: Safety standards on California utilities to prevent wildfires'
+export const lastName = ''
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
