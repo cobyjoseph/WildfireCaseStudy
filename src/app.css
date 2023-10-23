@@ -21,3 +21,21 @@
     @apply border-zinc-100 dark:border-zinc-700/25;
   }
 }
+
+details > summary {
+  cursor: pointer;
+  display: flex;
+  align-items: top;
+}
+
+details > summary::before {
+  content: '▷';
+  color: #777;
+  margin-right: 10px;
+}
+
+details[open] > summary::before {
+  content: '▽';
+}
+
+

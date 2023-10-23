@@ -11,8 +11,46 @@ This case study investigates safety standards applied to investor-owned electric
 
 ## The need for safety standards
 
-- California wildfires cause significant death and destruction. (more)
-- The risk of wildfires has significantly increased in recent decades, almost certainly due to climate-change induced droughts.
+
+<details style="margin-bottom: 0px; margin-top: 12px; ">
+  <summary > 
+    <span style="margin-left: 8px">
+  California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.California wildfires cause significant death and destruction.   
+  </span>
+  </summary>
+   
+  <div  style=" margin-left: 20px; margin-top: 12px">
+
+  * [Since 2008](https://calmatters.org/california-wildfire-map-tracker/), California wildfires have killed 225 people and damaged or destroyed more than 50,000 structures. Since 2015, they have caused around $25 billion in “property and contents” loss (which does not include lost economic activity or fire suppression costs).
+
+
+  </div>
+</details>
+
+
+<details style="margin-bottom: 0px; margin-top: 12px; ">
+  <summary > 
+    <span style="margin-left: 8px">
+The risk of wildfires has significantly increased in recent decades, almost certainly due to climate-change induced droughts.    
+  </span>
+  </summary>
+   
+  <div  style="margin-left: 20px; margin-top: 12px">
+
+* Out of California’s 20 largest wildfires up to 2022, seven occurred in 2020 and 2021 alone.
+* Climate change appears to be significantly exacerbating wildfire risk by increasing drought frequency and severity.
+
+
+  </div>
+</details>
+
+ 
+
+
+
+
+
+
 - Equipment from California’s utilities is a significant source of wildfires that have killed hundreds of people and caused billions of dollars in damage.
 - There is no simple and affordable solution to eliminate wildfire risk from utility equipment.
 
@@ -127,12 +165,12 @@ Key points:
 
 <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 5px">
+    <span style="margin-left: 8px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div style="margin-left: 20px; margin-top: 12px">
+  <div  style="margin-left: 20px; margin-top: 12px">
 
 - Second level, first BULLET
 
@@ -144,12 +182,12 @@ Key points:
 
 <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 5px">
+    <span style="margin-left: 8px">
       TOP BULLET HERE
     </span>
   </summary>
    
-  <div style="margin-left: 20px; margin-top: 12px">
+  <div  style="margin-left: 20px; margin-top: 12px">
 
 - Second level, first BULLET
 
@@ -161,13 +199,13 @@ Key points:
 
 <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 10px;">
   <summary> 
-    <span style="margin-left: 5px">
+    <span style="margin-left: 8px">
       TOP BULLET HERE
     </span>
   </summary>
   
  
-  <div style="margin-left: 20px; margin-top: 12px">
+  <div  style="margin-left: 20px; margin-top: 12px">
 
 
 - Second level, first BULLET
@@ -177,13 +215,13 @@ Key points:
 
   <details style="margin-bottom: 0px; margin-top: 12px; margin-left: 25px;">
     <summary>
-      <span style="margin-left: 10px">
+      <span style="margin-left: 8px">
         Second level, COLLAPSABLE
       </span>
 
     </summary>
 
-  <div style="margin-left: 20px; margin-top: 12px">
+  <div  style="margin-left: 10px; margin-top: 12px">
 
 - Third level, first BULLET
 
@@ -192,6 +230,4 @@ Key points:
   </details>
 </details>
 
-Now that that's out of the way, let's learn about how to make posts.
 
-## Creating a Post
