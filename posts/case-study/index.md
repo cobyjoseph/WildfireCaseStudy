@@ -8,12 +8,17 @@ date: 2023-10-23
 
 </div>
 
-This case study was written in response to [this](https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards) call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading AI labs. It represents ~50 hours of independent research. I am grateful to Michael Wara, Tom Long, Marc Joseph, and one expert with knowledge of the Office of Energy Infrastructure Safety (who chose to remain anonymous) for allowing me to interview them for this case study.
+
+ This case study was written in response to [this](https://forum.effectivealtruism.org/posts/idrBxfsHkYeTtpm2q/seeking-paid-case-studies-on-standards) call for proposals by Holden Karnofsky on safety standards to inform possible standards on leading AI labs. It represents ~50 hours of independent research. I am grateful to Michael Wara, Tom Long, Marc Joseph, and one expert with knowledge of the Office of Energy Infrastructure Safety (who chose to remain anonymous) for allowing me to interview them for this case study. 
+
 
 This case study investigates safety standards applied to investor-owned electrical companies in California (hereafter referred to as ‘utilities’) to reduce the risk of utility equipment igniting wildfires. California investor-owned utilities are regulated monopolies responsible for purchasing and distributing electricity across the state. Three utilities cover most of the state, with Pacific Gas and Electric (PG&E) being the largest. The industry has many possible parallels and lessons for AI regulation.
 
 ## The need for safety standards
 
+Each bullet below can be clicked and expanded to show additional detail.
+
+<div class="textbox">
 <details class="outerBullet">
   <summary > 
     <span style="margin-left: 8px">
@@ -23,12 +28,14 @@ This case study investigates safety standards applied to investor-owned electric
    
   <div class="innerBullet">
 
+
+
   * [Since 2008](https://calmatters.org/california-wildfire-map-tracker/), California wildfires have killed 225 people and damaged or destroyed more than 50,000 structures. Since 2015, they have caused around $25 billion in “property and contents” loss (which does not include lost economic activity or fire suppression costs).
 
 
   </div>
 </details>
-
+</div>
 
 <details class="outerBullet">
   <summary > 
@@ -44,7 +51,9 @@ The risk of wildfires has significantly increased in recent decades, almost cert
 
 
   </div>
+
 </details>
+
 
 <!-- -------------------------------------- -->
 <details class="outerBullet">
@@ -56,8 +65,8 @@ Equipment from California’s utilities is a significant source of wildfires tha
    
   <div class="innerBullet">
 
-* Utility equipment caused fires that burned a[ similar number of acres](https://calmatters.org/california-wildfire-map-tracker/) as fires caused by humans or lightning in 2017, 2019, and 2021.
-* Pacific Gas and Electric (PG&E), the state’s largest utility,[ pleaded guilty](https://www.npr.org/2020/06/16/879008760/pg-e-pleads-guilty-on-2018-california-camp-fire-our-equipment-started-that-fire#:~:text=Hourly%20News-,PG%26E%20Pleads%20Guilty%20On%202018%20California%20Camp%20Fire%3A%20'Our%20Equipment,has%20been%20charged%20with%20homicide.) to 84 counts of involuntary manslaughter following the 2018 Camp Fire, the deadliest wildfire in the state’s history, which was caused by old PG&E equipment. PG&E equipment was[ also responsible](https://www.cnbc.com/2022/01/05/california-finds-pge-equipment-responsible-for-massive-dixie-fire-.html) for starting the Dixie Fire, the state’s second largest fire by acreage, which destroyed more than 1,300 homes in 2021. PG&E filed for[ bankruptcy in 2019](https://www.nytimes.com/2019/01/29/business/energy-environment/pge-file-bankruptcy.html) after facing liability claims for dozens of fires.
+* Utility equipment caused fires that burned a [ similar number of acres](https://calmatters.org/california-wildfire-map-tracker/) as fires caused by humans or lightning in 2017, 2019, and 2021.
+* Pacific Gas and Electric (PG&E), the state’s largest utility, [ pleaded guilty](https://www.npr.org/2020/06/16/879008760/pg-e-pleads-guilty-on-2018-california-camp-fire-our-equipment-started-that-fire#:~:text=Hourly%20News-,PG%26E%20Pleads%20Guilty%20On%202018%20California%20Camp%20Fire%3A%20'Our%20Equipment,has%20been%20charged%20with%20homicide.) to 84 counts of involuntary manslaughter following the 2018 Camp Fire, the deadliest wildfire in the state’s history, which was caused by old PG&E equipment. PG&E equipment was [ also responsible](https://www.cnbc.com/2022/01/05/california-finds-pge-equipment-responsible-for-massive-dixie-fire-.html) for starting the Dixie Fire, the state’s second largest fire by acreage, which destroyed more than 1,300 homes in 2021. PG&E filed for [ bankruptcy in 2019](https://www.nytimes.com/2019/01/29/business/energy-environment/pge-file-bankruptcy.html) after facing liability claims for dozens of fires.
 
 
   </div>
