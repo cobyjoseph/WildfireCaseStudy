@@ -193,7 +193,7 @@ module.exports = {
             listStyleType: 'decimal'
           },
           'ul, ol': {
-            paddingLeft: theme('spacing.7'),
+            paddingLeft: theme('spacing.9'),
             marginTop: theme('spacing.3'),
             marginBottom: theme('spacing.2')
           },
