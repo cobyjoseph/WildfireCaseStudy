@@ -8,9 +8,14 @@
     @apply text-zinc-600 dark:text-zinc-400;
 
     .outerBullet {
-      margin-bottom: 0px;
-      margin-top: 12px;
+      margin-bottom: -20px;
+      margin-top: -8px;
       margin-left: 10px;
+    }
+
+    .indent {
+      margin-left: 60px;
+      /* margin-top: -1px; */
     }
 
     .innerBullet {
@@ -67,15 +72,17 @@
 details > summary {
   cursor: pointer;
   display: flex;
-  align-items: top;
+  align-items: flex-start; /* Changed from "top" to "flex-start" for correct behavior in flex containers */
 }
 
 details > summary::before {
   content: '▷';
   color: #777;
   margin-right: 10px;
+  margin-top: 20px; /* Move the arrow down by 20 pixels */
 }
 
 details[open] > summary::before {
   content: '▽';
 }
+

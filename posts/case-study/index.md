@@ -73,11 +73,14 @@ Each section contains bullet points that can be clicked to expand and reveal add
 
 Each bullet below can be clicked and expanded to show additional detail.
 
+<div style="margin-top: -20px">
 
 <details class="outerBullet">
   <summary > 
     <span style="margin-left: 4px">
-  California wildfires cause significant death and destruction.  
+  
+
+California wildfires cause significant death and destruction.  
   </span>
   </summary>
    
@@ -95,6 +98,7 @@ Each bullet below can be clicked and expanded to show additional detail.
 <details class="outerBullet">
   <summary > 
     <span style="margin-left: 4px">
+
 The risk of wildfires has significantly increased in recent decades, almost certainly due to climate change-induced droughts. 
   </span>
   </summary>
@@ -114,6 +118,7 @@ The risk of wildfires has significantly increased in recent decades, almost cert
 <details class="outerBullet">
   <summary > 
     <span style="margin-left: 4px">
+
 Equipment from California’s utilities is a significant source of wildfires that have killed hundreds of people and caused billions of dollars in damage.     
   </span>
   </summary>
@@ -133,6 +138,7 @@ Equipment from California’s utilities is a significant source of wildfires tha
 <details class="outerBullet">
   <summary > 
     <span style="margin-left: 4px">
+
 There is no simple and affordable solution to eliminate wildfire risk from utility equipment.  
   </span>
   </summary>
@@ -146,7 +152,7 @@ There is no simple and affordable solution to eliminate wildfire risk from utili
   </div>
 </details>
 <!-- -------------------------------------- -->
-
+</div>
 
 ## Current standards 
 
@@ -155,7 +161,8 @@ There is no simple and affordable solution to eliminate wildfire risk from utili
 <details class="outerBullet">
   <summary>
    
-  <span style="margin-left: 4px; margin-top: -20px"> 
+  <span style="margin-left: 4px;"> 
+
 
 Energy Safety issues “[safety certifications](https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/wildfire-mitigation-and-safety/safety-certifications/safety-certification-faqs/)'' to qualifying utilities. Failure to receive a safety certification would significantly harm a utility’s financial standing. _Click to show more_
   </span>
@@ -171,15 +178,44 @@ Energy Safety issues “[safety certifications](https://energysafety.ca.gov/what
   </div>
 </details>
 
+* Core requirements for a safety certification [include](https://energysafety.ca.gov/what-we-do/electrical-infrastructure-safety/wildfire-mitigation-and-safety/safety-certifications/safety-certification-faqs/):
+
+<details class="outerBullet indent">
+  <summary> 
+    <span style="margin-left: 4px; margin-top: -20px">
+
+a **safety culture assessment,**
+ 
+   </span>
+  </summary>
+   
+  <div class="innerBullet">
+
+- Second level, first BULLET
+
+
+  </div>
+</details>
+
+
+----------------
+----------------
+
+
+
+
+
+
 
 
 
 <!-- TEMPLATES ------------------------------------------------------------- -->
-
+<!--  -->
 <details class="outerBullet">
   <summary> 
-    <span style="margin-left: 4px">
-      TOP BULLET HERE
+    <span style="margin-left: 4px; margin-top: -20px">
+      
+TOP BULLET HERE
     </span>
   </summary>
    
